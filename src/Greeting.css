@@ -1,0 +1,10 @@
+.greeting-container {
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.greeting-message {
+    font-size: 1.2rem;
+    margin: 0;
+}
